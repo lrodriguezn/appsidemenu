@@ -1,3 +1,10 @@
+/*
+https://stackoverflow.com/questions/39122669/using-font-awesome-in-ionic-2
+https://dev-300802.oktapreview.com
+client_id: 0oaevg6yfe4bbabxW0h7
+token: 00HzRclaPeAjIKvWrlPIcjeGdS4egV2kDwCwElTr6C
+*/
+
 import { BrowserModule } from '@angular/platform-browser';
 import { ErrorHandler, NgModule } from '@angular/core';
 import { IonicApp, IonicErrorHandler, IonicModule } from 'ionic-angular';

@@ -15,7 +15,7 @@ export class HomePage implements OnInit {
 
   ngOnInit() {
     
-    $.getScript('../assets/js/initialize.js', function(){
+   $.getScript('../assets/js/initialize.js', function(){
     });
     
   }
